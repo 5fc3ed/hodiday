@@ -1,7 +1,7 @@
 # Chinese Hodiday API
 中国法定节假日信息，查询日期从 2023-01-01 开始，每年进行更新最新日期。
-
-[最近更新] 2025 年 11 月 5 日 已更新 2026 年信息。在线查看2026年最新中国法定节假日信息 https://xiaoai.me/pages/daily-holiday-2026
+[最新更新] 2026 年 11 月 7 日 已更新 2027 年信息。在线查看2027年最新中国法定节假日信息 https://xiaoai.me/pages/daily-holiday-2027
+[历史更新] 2025 年 11 月 5 日 已更新 2026 年信息。在线查看2026年最新中国法定节假日信息 https://xiaoai.me/pages/daily-holiday-2026
 
 # 使用说明
 * 长期维护
@@ -28,7 +28,7 @@
 https://publicapi.xiaoai.me/holiday/year
 ```
 例如
-[https://publicapi.xiaoai.me/holiday/year?date=2024](https://publicapi.xiaoai.me/holiday/year?date=2024 "https://publicapi.xiaoai.me/holiday/year?date=2024")
+[https://publicapi.xiaoai.me/holiday/year?date=2027](https://publicapi.xiaoai.me/holiday/year?date=2027 "https://publicapi.xiaoai.me/holiday/year?date=2027")
 
 ### 响应示例
 ```
@@ -37,13 +37,13 @@ https://publicapi.xiaoai.me/holiday/year
   "msg": "ok",
   "data": [
     {
-      "daytype": 1,
-      "holiday": "元旦节",
-      "rest": 1,
-      "date": "2024-01-01",
-      "week": 1,
-      "week_desc_en": "Monday",
-      "week_desc_cn": "星期一"
+        "daytype":1,
+        "holiday":"元旦节",
+        "rest":1,
+        "date":"2027-01-01",
+        "week":5,
+        "week_desc_en":"Friday",
+        "week_desc_cn":"星期五"
     }
   ]
 }
@@ -54,7 +54,7 @@ https://publicapi.xiaoai.me/holiday/year
 https://publicapi.xiaoai.me/holiday/month
 ```
 例如
-[https://publicapi.xiaoai.me/holiday/month?date=2024-01](https://publicapi.xiaoai.me/holiday/month?date=2024-01 "https://publicapi.xiaoai.me/holiday/year?date=2024-01")
+[https://publicapi.xiaoai.me/holiday/month?date=2027-01](https://publicapi.xiaoai.me/holiday/month?date=2027-01 "https://publicapi.xiaoai.me/holiday/year?date=2027-01")
 
 ### 响应示例
 ```
@@ -63,13 +63,14 @@ https://publicapi.xiaoai.me/holiday/month
   "msg": "ok",
   "data": [
     {
-      "daytype": 1,
-      "holiday": "元旦节",
-      "rest": 1,
-      "date": "2024-01-01",
-      "week": 1,
-      "week_desc_en": "Monday",
-      "week_desc_cn": "星期一"
+        "daytype":1,
+        "holiday":"元旦节",
+        "rest":1,
+        "date":"2027-01-01",
+        "week":5,
+        "week_desc_en":"Friday",
+        "week_desc_cn":"星期五"
+    }
     }
   ]
 }
@@ -80,7 +81,7 @@ https://publicapi.xiaoai.me/holiday/month
 https://publicapi.xiaoai.me/holiday/day
 ```
 例如
-[https://publicapi.xiaoai.me/holiday/day?date=2024-01-01](https://publicapi.xiaoai.me/holiday/day?date=2024-01-01 "https://publicapi.xiaoai.me/holiday/day?date=2024-01-01")
+[https://publicapi.xiaoai.me/holiday/day?date=2027-01-01](https://publicapi.xiaoai.me/holiday/day?date=2027-01-01 "https://publicapi.xiaoai.me/holiday/day?date=2027-01-01")
 
 ### 响应示例
 ```
@@ -89,13 +90,14 @@ https://publicapi.xiaoai.me/holiday/day
   "msg": "ok",
   "data": [
     {
-      "daytype": 1,
-      "holiday": "元旦节",
-      "rest": 1,
-      "date": "2024-01-01",
-      "week": 1,
-      "week_desc_en": "Monday",
-      "week_desc_cn": "星期一"
+        "daytype":1,
+        "holiday":"元旦节",
+        "rest":1,
+        "date":"2027-01-01",
+        "week":5,
+        "week_desc_en":"Friday",
+        "week_desc_cn":"星期五"
+    }
     }
   ]
 }
