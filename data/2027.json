@@ -1,0 +1,308 @@
+[
+  {
+    "daytype": 1,
+    "holiday": "元旦节",
+    "rest": 1,
+    "date": "2027-01-01",
+    "week": 5,
+    "week_desc_en": "Friday",
+    "week_desc_cn": "星期五"
+  },
+  {
+    "daytype": 1,
+    "holiday": "元旦节",
+    "rest": 1,
+    "date": "2027-01-02",
+    "week": 6,
+    "week_desc_en": "Saturday",
+    "week_desc_cn": "星期六"
+  },
+  {
+    "daytype": 1,
+    "holiday": "元旦节",
+    "rest": 1,
+    "date": "2027-01-03",
+    "week": 0,
+    "week_desc_en": "Sunday",
+    "week_desc_cn": "星期日"
+  },
+  {
+    "daytype": 3,
+    "holiday": "春节调休",
+    "rest": 0,
+    "date": "2027-01-31",
+    "week": 0,
+    "week_desc_en": "Sunday",
+    "week_desc_cn": "星期日"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-05",
+    "week": 5,
+    "week_desc_en": "Friday",
+    "week_desc_cn": "星期五"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-06",
+    "week": 6,
+    "week_desc_en": "Saturday",
+    "week_desc_cn": "星期六"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-07",
+    "week": 0,
+    "week_desc_en": "Sunday",
+    "week_desc_cn": "星期日"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-08",
+    "week": 1,
+    "week_desc_en": "Monday",
+    "week_desc_cn": "星期一"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-09",
+    "week": 2,
+    "week_desc_en": "Tuesday",
+    "week_desc_cn": "星期二"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-10",
+    "week": 3,
+    "week_desc_en": "Wednesday",
+    "week_desc_cn": "星期三"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-11",
+    "week": 4,
+    "week_desc_en": "Thursday",
+    "week_desc_cn": "星期四"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-12",
+    "week": 5,
+    "week_desc_en": "Friday",
+    "week_desc_cn": "星期五"
+  },
+  {
+    "daytype": 1,
+    "holiday": "春节",
+    "rest": 1,
+    "date": "2027-02-13",
+    "week": 6,
+    "week_desc_en": "Saturday",
+    "week_desc_cn": "星期六"
+  },
+  {
+    "daytype": 3,
+    "holiday": "春节调休",
+    "rest": 0,
+    "date": "2027-02-14",
+    "week": 0,
+    "week_desc_en": "Sunday",
+    "week_desc_cn": "星期日"
+  },
+  {
+    "daytype": 1,
+    "holiday": "清明节",
+    "rest": 1,
+    "date": "2027-04-03",
+    "week": 6,
+    "week_desc_en": "Saturday",
+    "week_desc_cn": "星期六"
+  },
+  {
+    "daytype": 1,
+    "holiday": "清明节",
+    "rest": 1,
+    "date": "2027-04-04",
+    "week": 0,
+    "week_desc_en": "Sunday",
+    "week_desc_cn": "星期日"
+  },
+  {
+    "daytype": 1,
+    "holiday": "清明节",
+    "rest": 1,
+    "date": "2027-04-05",
+    "week": 1,
+    "week_desc_en": "Monday",
+    "week_desc_cn": "星期一"
+  },
+  {
+    "daytype": 1,
+    "holiday": "劳动节",
+    "rest": 1,
+    "date": "2027-05-01",
+    "week": 6,
+    "week_desc_en": "Saturday",
+    "week_desc_cn": "星期六"
+  },
+  {
+    "daytype": 1,
+    "holiday": "劳动节",
+    "rest": 1,
+    "date": "2027-05-02",
+    "week": 0,
+    "week_desc_en": "Sunday",
+    "week_desc_cn": "星期日"
+  },
+  {
+    "daytype": 1,
+    "holiday": "劳动节",
+    "rest": 1,
+    "date": "2027-05-03",
+    "week": 1,
+    "week_desc_en": "Monday",
+    "week_desc_cn": "星期一"
+  },
+  {
+    "daytype": 1,
+    "holiday": "劳动节",
+    "rest": 1,
+    "date": "2027-05-04",
+    "week": 2,
+    "week_desc_en": "Tuesday",
+    "week_desc_cn": "星期二"
+  },
+  {
+    "daytype": 1,
+    "holiday": "劳动节",
+    "rest": 1,
+    "date": "2027-05-05",
+    "week": 3,
+    "week_desc_en": "Wednesday",
+    "week_desc_cn": "星期三"
+  },
+  {
+    "daytype": 3,
+    "holiday": "劳动节调休",
+    "rest": 0,
+    "date": "2027-05-08",
+    "week": 6,
+    "week_desc_en": "Saturday",
+    "week_desc_cn": "星期六"
+  },
+  {
+    "daytype": 1,
+    "holiday": "端午节",
+    "rest": 1,
+    "date": "2027-06-09",
+    "week": 3,
+    "week_desc_en": "Wednesday",
+    "week_desc_cn": "星期三"
+  },
+  {
+    "daytype": 1,
+    "holiday": "中秋节",
+    "rest": 1,
+    "date": "2027-09-15",
+    "week": 3,
+    "week_desc_en": "Wednesday",
+    "week_desc_cn": "星期三"
+  },
+  {
+    "daytype": 3,
+    "holiday": "国庆节调休",
+    "rest": 0,
+    "date": "2027-09-26",
+    "week": 0,
+    "week_desc_en": "Sunday",
+    "week_desc_cn": "星期日"
+  },
+  {
+    "daytype": 1,
+    "holiday": "国庆节",
+    "rest": 1,
+    "date": "2027-10-01",
+    "week": 5,
+    "week_desc_en": "Friday",
+    "week_desc_cn": "星期五"
+  },
+  {
+    "daytype": 1,
+    "holiday": "国庆节",
+    "rest": 1,
+    "date": "2027-10-02",
+    "week": 6,
+    "week_desc_en": "Saturday",
+    "week_desc_cn": "星期六"
+  },
+  {
+    "daytype": 1,
+    "holiday": "国庆节",
+    "rest": 1,
+    "date": "2027-10-03",
+    "week": 0,
+    "week_desc_en": "Sunday",
+    "week_desc_cn": "星期日"
+  },
+  {
+    "daytype": 1,
+    "holiday": "国庆节",
+    "rest": 1,
+    "date": "2027-10-04",
+    "week": 1,
+    "week_desc_en": "Monday",
+    "week_desc_cn": "星期一"
+  },
+  {
+    "daytype": 1,
+    "holiday": "国庆节",
+    "rest": 1,
+    "date": "2027-10-05",
+    "week": 2,
+    "week_desc_en": "Tuesday",
+    "week_desc_cn": "星期二"
+  },
+  {
+    "daytype": 1,
+    "holiday": "国庆节",
+    "rest": 1,
+    "date": "2027-10-06",
+    "week": 3,
+    "week_desc_en": "Wednesday",
+    "week_desc_cn": "星期三"
+  },
+  {
+    "daytype": 1,
+    "holiday": "国庆节",
+    "rest": 1,
+    "date": "2027-10-07",
+    "week": 4,
+    "week_desc_en": "Thursday",
+    "week_desc_cn": "星期四"
+  },
+  {
+    "daytype": 3,
+    "holiday": "国庆节调休",
+    "rest": 0,
+    "date": "2027-10-09",
+    "week": 6,
+    "week_desc_en": "Saturday",
+    "week_desc_cn": "星期六"
+  }
+]
