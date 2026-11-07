@@ -1,4 +1,4 @@
-# Chinese Hodiday API
+# Chinese Holiday API
 中国法定节假日信息，查询日期从 2023-01-01 开始，每年进行更新最新日期。
 
 [最新更新] 2026 年 11 月 7 日 已更新 2027 年信息。在线查看2027年最新中国法定节假日信息 https://xiaoai.me/pages/daily-holiday-2027
